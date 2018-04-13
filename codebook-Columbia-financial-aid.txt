@@ -1,0 +1,112 @@
+--------------------------------------------------------------------------------
+Codebook for Columbia University Financial Aid Data
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Sources
+    - Citation and Use
+ 
+Collected by The Eye at the Columbia Daily Spectator
+
+Find more on GitHub and on our website:
+      [insert GitHub link here]
+      https://www.columbiaspectator.com/
+
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Years:             2009-2017
+Sources:           Archived Columbia University websites and publications
+Notes: 
+
+All data is only for Columbia College (CC) and Columbia School of Engineering and Applied Science (SEAS) undergraduates.
+
+Some data missing due to lack of website updates.
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        Year:        Year of data; Fall semester
+        COA:         Cost of attendance 
+        COA17:       Cost of attendance in 2017 dollars
+        Tuition:     Cost of tuition
+        Tuition17:   Cost of tuition in 2017 dollars
+        TotalSpent:  Amount (millions) spent by school on financial aid for the academic year
+        Received:    Percent of students who received financial aid
+        AvgAid:      Average amount of aid received by students receiving aid
+        AvgAid17:    Average amount of aid received by students receiving aid in 2017 dollars
+        AvgCost:     Average cost of Columbia for students receiving financial aid
+        AvgCost17:   Average cost of Columbia for students receiving financial aid in 2017 dollars
+        Covered:     Average percent of cost of attendance covered by financial aid among students who receive financial aid
+        Pell:        Percent of students receiving Pell grants
+        MedIncome:   Median income of students receiving financial aid
+        MedIncome17: Median income of students receiving financial aid in 2017 dollars
+        Notes:       Notes on data
+        Source1:     Primary web source of data
+        Source2:     Secondary web source of data
+
+Summary of Notes:
+	In 2010, missing values indicate that these values were not updated from the previous year on the website. "AvgAid" and associated variables for this year are estimates based on average percent discount.
+
+--------------------------------------------------------------------------------
+Sources
+--------------------------------------------------------------------------------
+
+2009 
+        Source Name:        Office of Financial Aid
+        Source Link:        https://web.archive.org/web/20090918170939/http://www.studentaffairs.columbia.edu:80/finaid/eligibility/facts.php
+
+2010 
+        Source Name:        Office of Undergraduate Financial Aid & Educational Financing
+        Source Link:        https://web.archive.org/web/20110522061128/http://www.studentaffairs.columbia.edu:80/finaid/eligibility/facts.php
+        Source Name:        Columbia Daily Spectator
+        Source Link:        http://spectatorarchive.library.columbia.edu/cgi-bin/columbia?a=d&d=cs20101104-02.2.3&srpos=3&e=------201-en-20--1--txt-txIN-percent+of+students+receive+financial+aid----2010--
+        Source Name:        Columbia Daily Spectator
+        Source Link:        http://spectatorarchive.library.columbia.edu/cgi-bin/columbia?a=d&d=cs20101005-01.2.18&srpos=5&e=------201-en-20--1--txt-txIN-percent+of+students+receive+financial+aid----2010--
+
+2011 
+        Source Name:        Undergraduate Financial Aid
+        Source Link:        https://web.archive.org/web/20111126203454/http://www.studentaffairs.columbia.edu:80/finaid/eligibility/facts.php
+        Source Name:        Into the Columbia Blue
+        Source Link:        https://web.archive.org/web/20120208042927/http://www.studentaffairs.columbia.edu/admissions/webfm_send/207        
+
+2012 
+        Source Name:        Columbia Undergraduate Admissions
+        Source Link:        https://web.archive.org/web/20130527121258/http://cc-seas.financialaid.columbia.edu/eligibility/facts
+
+2013 
+        Source Name:        Columbia Financial Aid and Educational Financing
+        Source Link:        https://web.archive.org/web/20140419101654/http://cc-seas.financialaid.columbia.edu:80/eligibility/facts
+
+2014 
+        Source Name:        Columbia Financial Aid and Educational Financing
+        Source Link:        https://web.archive.org/web/20141216102706/http://cc-seas.financialaid.columbia.edu:80/eligibility/facts
+
+2015 
+        Source Name:        Columbia Financial Aid and Educational Financing
+        Source Link:        https://web.archive.org/web/20150624033924/https://cc-seas.financialaid.columbia.edu/eligibility/facts
+        Source Name:        Columbia’s Core Value
+        Source Link:        https://web.archive.org/web/20180411155536/https://undergrad.admissions.columbia.edu/sites/default/files/corevalue2015.pdf
+
+2016 
+        Source Name:        Columbia Financial Aid and Educational Financing
+        Source Link:        https://web.archive.org/web/20161110131823/http://cc-seas.financialaid.columbia.edu:80/eligibility/facts
+        Source Name:        Columbia’s Core Value
+        Source Link:        https://web.archive.org/web/20180411155711/https://undergrad.admissions.columbia.edu/sites/default/files/core_value_final_2016-17.pdf
+
+2017 
+        Source Name:        Columbia Financial Aid and Educational Financing
+        Source Link:        https://web.archive.org/web/20170810092118/http://cc-seas.financialaid.columbia.edu:80/eligibility/facts
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+Please cite your source as the The Eye magazine. We’d love to hear from you if you use it, or if you have any questions!
+
+Feel free to get in touch at editor@columbiaspectator.com.
