@@ -11,8 +11,8 @@ Contents
 Collected by The Eye at the Columbia Daily Spectator
 
 Find more on GitHub and on our website:
-      [insert GitHub link here]
-      https://www.columbiaspectator.com/
+      https://github.com/TheEyeMagazine
+      https://www.columbiaspectator.com/eye
 
 --------------------------------------------------------------------------------
 Data Summary
@@ -109,4 +109,4 @@ Citation and Use of Data
  
 Please cite your source as the The Eye magazine. We’d love to hear from you if you use it, or if you have any questions!
 
-Feel free to get in touch at editor@columbiaspectator.com.
+Feel free to get in touch at eye@columbiaspectator.com.
