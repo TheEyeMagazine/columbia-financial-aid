@@ -11,4 +11,4 @@ Columbia financial aid data from 2009 to 2017, collected by <i>The Eye</i>.
 More information in the [codebook](https://github.com/TheEyeMagazine/columbia-financial-aid/blob/master/codebook-Columbia-financial-aid.txt).  
 
 This data has been used in the following stories:
-<li></li>
+<li>[Socioeconomic Diversity is Stagnating at Columbia](https://www.columbiaspectator.com/eye/socioeconomic-diversity-is-stagnating/)</li>
